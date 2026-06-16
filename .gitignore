@@ -1,4 +1,9 @@
-. those/
-*.local.txt
+# Arduino build artifacts
+🎨 build/
+✨ bin/
 *.hex
 *.elf
+*.eep
+
+# Local configuration or temp files
+.local.txt
