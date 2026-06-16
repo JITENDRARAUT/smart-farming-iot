@@ -1,6 +1,6 @@
 # Arduino build artifacts
-🎨 build/
-✨ bin/
+build/
+bin/
 *.hex
 *.elf
 *.eep
