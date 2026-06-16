@@ -1,0 +1,4 @@
+. those/
+*.local.txt
+*.hex
+*.elf
