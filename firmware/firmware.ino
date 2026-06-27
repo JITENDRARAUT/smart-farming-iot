@@ -4,7 +4,7 @@
 // --- Configuration ---
 const char* WIFI_SSID = "YOUR_WIFI_SSID";
 const char* WIFI_PASS = "YOUR_WIFI_PASSWORD";
-a
+
 // ThingSpeak Settings
 const char* TS_SERVER = "api.thingspeak.com";
 String TS_API_KEY = "YOUR_THINGSPEAK_WRITE_API_KEY"; // Paste your API key here
