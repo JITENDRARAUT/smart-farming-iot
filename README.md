@@ -25,4 +25,4 @@ An open-source Internet of Things (IoT) project designed to optimize crop growth
 3. **Software Configuration:** Open `firmware.ino` in the Arduino IDE, update your Wi-Fi credentials, and insert your ThingSpeak Write API Key.
 4. **Deploy:** Compile and upload the sketch to your ESP32 board.
 
-A
+
