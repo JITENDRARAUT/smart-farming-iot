@@ -13,7 +13,7 @@ An open-source Internet of Things (IoT) project designed to optimize crop growth
 * **Actuators:** 5V Relay Module + 5V Mini Submersible Water Pump
 * **Power Source:** 5V Power Supply / USB Cable
 * **Miscellaneous:** Breadboard, Jumper Wires
-
+a
 ## 📊 System Architecture
 1. Sensors gather soil moisture and climate parameters.
 2. ESP32 processes data locally to make irrigation decisions (On/Off).
