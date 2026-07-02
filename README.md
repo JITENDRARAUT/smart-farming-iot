@@ -6,7 +6,7 @@ An open-source Internet of Things (IoT) project designed to optimize crop growth
 * **Real-time Monitoring:** Tracks air temperature, humidity, and soil moisture levels.
 * **Automated Irrigation:** Dynamically triggers a water pump relay when soil moisture drops below a specified threshold.
 * **Cloud Dashboard:** Uploads live analytics to ThingSpeak for remote graphical visualization.
-a
+
 ## 🛠️ Hardware Requirements
 * **Microcontroller:** ESP32 (or NodeMCU ESP8266)
 * **Sensors:** DHT11 (Temperature & Humidity), Capacitive Soil Moisture Sensor v1.2
