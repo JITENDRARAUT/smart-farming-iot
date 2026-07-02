@@ -8,7 +8,7 @@ const char* WIFI_PASS = "YOUR_WIFI_PASSWORD";
 // ThingSpeak Settings
 const char* TS_SERVER = "api.thingspeak.com";
 String TS_API_KEY = "YOUR_THINGSPEAK_WRITE_API_KEY"; // Paste your API key here
-
+a
 // Pin Assignments
 #define DHTPIN 4          // DHT11 Data pin connected to GPIO 4
 #define DHTTYPE DHT11
