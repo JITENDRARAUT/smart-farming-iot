@@ -1,7 +1,7 @@
 # IoT Smart Farming & Automated Irrigation System
 
 An open-source Internet of Things (IoT) project designed to optimize crop growth, monitor environmental conditions, and automate water consumption using an ESP32 microcontroller.
-a
+
 ## 🚀 Features
 * **Real-time Monitoring:** Tracks air temperature, humidity, and soil moisture levels.
 * **Automated Irrigation:** Dynamically triggers a water pump relay when soil moisture drops below a specified threshold.
