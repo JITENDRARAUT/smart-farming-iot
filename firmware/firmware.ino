@@ -21,7 +21,7 @@ const int DRY_SOIL_THRESHOLD = 2000; // Adjust based on your sensor calibration 
 DHT dht(DHTPIN, DHTTYPE);
 WiFiClient client;
 
-void setup() {
+void setup() { 
   Serial.begin(115200);
   pinMode(RELAY_PIN, OUTPUT);
   digitalWrite(RELAY_PIN, LOW); // Keep pump off initially
